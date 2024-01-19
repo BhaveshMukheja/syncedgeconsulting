@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bhavesh-portfolio/static/css/main.1db8c5be.css",
-    "main.js": "/bhavesh-portfolio/static/js/main.309fba56.js",
-    "static/js/787.672c328c.chunk.js": "/bhavesh-portfolio/static/js/787.672c328c.chunk.js",
-    "static/media/aditye.png": "/bhavesh-portfolio/static/media/aditye.7057a4f3d4c218eb341e.png",
-    "static/media/divyanshu.jpeg": "/bhavesh-portfolio/static/media/divyanshu.a2adf761dc67ad113c14.jpeg",
-    "static/media/dhruv.jpeg": "/bhavesh-portfolio/static/media/dhruv.495e6c3dd73cf24bc4a2.jpeg",
-    "static/media/muskan.jpg": "/bhavesh-portfolio/static/media/muskan.82e06459a68bacc7e3f6.jpg",
-    "static/media/logo.png": "/bhavesh-portfolio/static/media/logo.a90073de4f33b5c577c5.png",
-    "index.html": "/bhavesh-portfolio/index.html",
-    "main.1db8c5be.css.map": "/bhavesh-portfolio/static/css/main.1db8c5be.css.map",
-    "main.309fba56.js.map": "/bhavesh-portfolio/static/js/main.309fba56.js.map",
-    "787.672c328c.chunk.js.map": "/bhavesh-portfolio/static/js/787.672c328c.chunk.js.map"
+    "main.css": "/syncedgeconsulting/static/css/main.1db8c5be.css",
+    "main.js": "/syncedgeconsulting/static/js/main.1900feee.js",
+    "static/js/787.672c328c.chunk.js": "/syncedgeconsulting/static/js/787.672c328c.chunk.js",
+    "static/media/aditye.png": "/syncedgeconsulting/static/media/aditye.7057a4f3d4c218eb341e.png",
+    "static/media/divyanshu.jpeg": "/syncedgeconsulting/static/media/divyanshu.a2adf761dc67ad113c14.jpeg",
+    "static/media/dhruv.jpeg": "/syncedgeconsulting/static/media/dhruv.495e6c3dd73cf24bc4a2.jpeg",
+    "static/media/muskan.jpg": "/syncedgeconsulting/static/media/muskan.82e06459a68bacc7e3f6.jpg",
+    "static/media/logo.png": "/syncedgeconsulting/static/media/logo.a90073de4f33b5c577c5.png",
+    "index.html": "/syncedgeconsulting/index.html",
+    "main.1db8c5be.css.map": "/syncedgeconsulting/static/css/main.1db8c5be.css.map",
+    "main.1900feee.js.map": "/syncedgeconsulting/static/js/main.1900feee.js.map",
+    "787.672c328c.chunk.js.map": "/syncedgeconsulting/static/js/787.672c328c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1db8c5be.css",
-    "static/js/main.309fba56.js"
+    "static/js/main.1900feee.js"
   ]
 }
